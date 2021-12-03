@@ -16,4 +16,3 @@ def solution(measurements):
 
 measurements = Utils().read_lines_int("./input.txt")
 print(solution(measurements))
-
